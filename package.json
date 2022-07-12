@@ -1,0 +1,24 @@
+{
+  "name": "3d-solar-system",
+  "version": "1.0.0",
+  "description": "Visualizing planets in space",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devashishp1999/solar-system-threejs.git"
+  },
+  "keywords": [
+    "threejs",
+    "javascript",
+    "3d"
+  ],
+  "author": "Devashish pujari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devashishp1999/solar-system-threejs/issues"
+  },
+  "homepage": "https://github.com/devashishp1999/solar-system-threejs#readme"
+}
